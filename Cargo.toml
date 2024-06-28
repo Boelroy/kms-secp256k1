@@ -19,9 +19,7 @@ zk-paillier = { version = "0.4.3", default-features = false }
 centipede = { version = "0.3", default-features = false }
 
 [dependencies.multi-party-schnorr]
-git = "https://github.com/KZen-networks/multi-party-schnorr"
-tag = "v0.4.5"
-default-features = false
+git = "https://github.com/Boelroy/multi-party-schnorr"
 
 [dependencies.multi-party-ecdsa]
 git = "https://github.com/ZenGo-X/multi-party-ecdsa"
